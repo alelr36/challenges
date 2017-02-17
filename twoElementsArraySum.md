@@ -1,12 +1,12 @@
 **Given values**:
-    * A non-empty zero-indexed array
-    * An integer
+* A non-empty zero-indexed array
+* An integer
 
 **Goal**:
-    * Define a function that returns true when the given integer can be obtained by the sum of two elements of the array.
+* Define a function that returns true when the given integer can be obtained by the sum of two elements of the array.
 
 **Assumptions**:
-    * All values are integer numbers
+* All values are integer numbers
 
 ```javascript
 
