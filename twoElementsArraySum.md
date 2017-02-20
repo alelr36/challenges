@@ -8,6 +8,18 @@
 **Assumptions**:
 * All values are integer numbers
 
+**Example**:
+***Input***
+```javascript
+const arr = [11, 42, 2, 98, 64, 35, 5, 30, 53, 81, 100, -2]
+const sum = 98
+```
+***Output***
+```javascript
+true
+```
+---
+
 ```javascript
 
 const arr = [11, 42, 2, 98, 64, 35, 5, 30, 53, 81, 100, -2]
